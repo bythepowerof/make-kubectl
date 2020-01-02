@@ -1,6 +1,9 @@
 # MAKE-KUBECTL
 
-# An Alpine docker image with make and kubectl in it
+# An Alpine docker image with 
+* make
+* kubectl
+* kustomize
 
 ## Versions of kubectl
 * 1.17
